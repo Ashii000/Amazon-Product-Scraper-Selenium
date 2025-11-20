@@ -10,7 +10,7 @@ This represents a robust Python automation tool designed to extract real-time pr
 - **Export:** Saves valid data into a clean `CSV` file ready for analysis.
 
 ## 🛠️ Tech Stack
-- **Language:** Python 3.x
+- **Language:** Python 3.13
 - **Libraries:** Selenium, BeautifulSoup4, Pandas, Webdriver-Manager
 
 ## 📂 Output Sample
@@ -27,4 +27,4 @@ The script generates a clean CSV file like this:
    ```bash
    pip install -r requirements.txt
 2. Run the script:
-   python main.py   
+   python Amazon.py   
