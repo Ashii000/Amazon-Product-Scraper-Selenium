@@ -27,4 +27,4 @@ The script generates a clean CSV file like this:
    ```bash
    pip install -r requirements.txt
 2. Run the script:
-   python Amazon.ipynb  
+   python Amazon.py
