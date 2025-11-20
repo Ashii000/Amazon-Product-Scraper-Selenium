@@ -26,5 +26,5 @@ The script generates a clean CSV file like this:
 1. Install the required libraries:
    ```bash
    pip install -r requirements.txt
-2. Run the script:
+2. Run the script:  
    python Amazon.py
